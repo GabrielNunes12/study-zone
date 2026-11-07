@@ -1,0 +1,9 @@
+{
+  "name": "study-zone",
+  "version": "1.0.0",
+  "description": "Obsidian plugin: spaced retrieval practice with XP, n+1 unlocking and an 85% difficulty zone.",
+  "main": "main.js",
+  "scripts": { "test": "node tests/run.js" },
+  "author": "Gabriel Nunes Medeiros",
+  "license": "MIT"
+}

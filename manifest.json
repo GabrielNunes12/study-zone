@@ -1,0 +1,10 @@
+{
+  "id": "study-zone",
+  "name": "Study Zone",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Spaced retrieval practice for the question::answer cards in your notes, with XP and levels, n+1 unlocking along each topic's map of content, an 85% difficulty zone and deep-processing prompts.",
+  "author": "Gabriel Nunes Medeiros",
+  "authorUrl": "https://github.com/GabrielNunes12",
+  "isDesktopOnly": false
+}
